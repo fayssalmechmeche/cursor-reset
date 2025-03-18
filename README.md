@@ -1,3 +1,5 @@
+https://github.com/krsjoseph/mac-reset
+
 > ⚠️ **CRITICAL VERSION NOTICE**: This script ONLY works with Cursor version 0.44 and below. If you're using a newer version, you MUST downgrade to v0.44 first. Higher versions are NOT supported.
 
 # Cursor Trial Reset Tool
